@@ -2,6 +2,8 @@
 
 Welcome to the FERN Stack Walkthrough GitHub repository! This repository contains a step-by-step guide and source code to help you understand and build web applications using the FERN Stack.
 
+You can find the [step-by-step walkthrough here](https://dev.to/wra-sol/ferntastic-web-development-a-starters-walkthrough-of-the-fern-stack-700)
+
 The FERN Stack is a modern web development stack consisting of:
 - **F**irebase: A Backend-as-a-Service platform providing various services such as authentication, database, storage, and hosting.
 - **E**xpress: A minimal and flexible Node.js web application framework for building web applications and APIs.
